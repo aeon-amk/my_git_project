@@ -2,8 +2,9 @@
 # Version=1.0
 # Type=Link
 # Name=Ubuntu Forums
-# Comment=
+# Comment=git
 # Icon=gnome-fs-bookmark
 # URL=https://ubuntuforums.org
 
 ### save as filename.desktop ###
+## don t forget to git ##
